@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ある日の哲学",
+  "base_artist": "お風呂と街灯",
+  "createdAt": "2026-03-28T10:57:20.798172Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ある日の哲学",
+      "artist": "お風呂と街灯",
+      "has_synced": false,
+      "path": "select/pl_01_ある日の哲学_お風呂と街灯.txt"
+    }
+  ]
+}
